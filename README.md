@@ -6,11 +6,11 @@ This project aims to reproduce parts of the paper ["Machine learning can predict
 ## Organization
 
 The work is split into three parts, each with its own Jupyter notebook:
-1. Descriptive statistics and univariate analysis ([notebooks/01_descriptive_stats.ipynb](https://github.com/tjstarak/DSBA-reproducible-research/blob/main/notebooks/01_descriptive_stats.ipynb))
+1. Descriptive statistics and univariate analysis ([notebooks/01_descriptive_stats.ipynb](https://github.com/tjstarak/DSBA-reproducible-research/blob/main/notebooks/01_descriptive_stats.ipynb)) </br>
    Here, general descriptive statistics and univariate analysis are reproduced. 
-2. Random forest ([notebooks/02_random_forest.ipynb](https://github.com/tjstarak/DSBA-reproducible-research/blob/main/notebooks/02_random_forest.ipynb))
+2. Random forest ([notebooks/02_random_forest.ipynb](https://github.com/tjstarak/DSBA-reproducible-research/blob/main/notebooks/02_random_forest.ipynb))</br>
    Here, Random Forest reproduces the binary classification and their feature importance. 
-3. Logistic regression ([notebooks/03_logistic_regression.ipynb](https://github.com/tjstarak/DSBA-reproducible-research/blob/main/notebooks/03_logistic_regression.ipynb))
+3. Logistic regression ([notebooks/03_logistic_regression.ipynb](https://github.com/tjstarak/DSBA-reproducible-research/blob/main/notebooks/03_logistic_regression.ipynb))</br>
    Here, the unrestricted and restricted Logistic Regression results are reproduced.
 
 
