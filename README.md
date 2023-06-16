@@ -18,7 +18,7 @@ We use the [dataset with medical records of 299 patients with heart failure](htt
 
 ## Requirements
 
-Reproducing our work requires Python and packages specified in `environment.yml`. To recreate the Conda environment run:
+Reproducing our work requires Python and packages specified in `environment.yml`. To recreate the Conda environment run for example:
 `conda create -f environment.yml`
 
 
